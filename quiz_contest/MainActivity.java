@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.view.Menu;
 import android.view.Window;
 import android.view.WindowManager;
-
+//hello
 public class MainActivity extends Activity {
 
 	@Override
